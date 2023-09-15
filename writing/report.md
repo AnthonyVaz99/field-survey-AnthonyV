@@ -50,7 +50,10 @@ In this report I will be going over the types of work I am interested in the fut
 
 ## Credentials/Certifications Needed
 
-
+* For energy-related jobs:
+  - Energy Auditor Certification
+    * The HEP Energy Auditor certification demonstrates advanced competency through rigorous online and field exams, and work experience          prerequisites. Once certified, you will be able to evaluate the energy efficiency, health, and safety of a home.
+  -
 
 * Conventions, trade group meetings, or major discipline specific events that you think you might like to attend (virtually, even!)
 * Other things you're doing/have done/will do to be a part of a larger community in the area you're focusing on
